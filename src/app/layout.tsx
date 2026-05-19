@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Harry Potter - Música Tema',
-  description: 'Player de áudio inspirado no mundo mágico de Harry Potter',
+  title: "Isa's Version",
+  description: 'Player de música personalizado com tema romântico rosa e branco',
 }
 
 export default function RootLayout({
